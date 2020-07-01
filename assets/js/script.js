@@ -132,6 +132,7 @@ $(".list-group").on("blur", "input[type='text']", function() {
   // replace input with span element
   $(this).replaceWith(taskSpan);
 });
+//end adding 
 
 
 
